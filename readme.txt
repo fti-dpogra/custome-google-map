@@ -1,7 +1,4 @@
-Maninderpal singh
-CIS 174 
-Professor -  Frank Butt
-Project assignment 1
+
 
  This is full project of CIS 174 class. I used html, css, java script and php.
 
